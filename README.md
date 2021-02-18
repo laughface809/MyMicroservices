@@ -1,3 +1,1 @@
-# RabbitMQ-Node
-
-Message broker
+"msc"
